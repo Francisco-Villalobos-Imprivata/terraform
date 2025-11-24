@@ -48,3 +48,5 @@ terraform.rc
 **/github_conf
 
 .vscode/
+
+*.Zone.Identifier
