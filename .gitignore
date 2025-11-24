@@ -50,3 +50,5 @@ terraform.rc
 .vscode/
 
 *.Zone.Identifier
+*:Zone.Identifier
+:Zone.Identifier
